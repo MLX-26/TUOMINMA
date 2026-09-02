@@ -20,7 +20,7 @@
 
 ## 下载
 
-前往 [Releases](https://github.com/你的用户名/tuominma/releases) 页面下载最新版本的 `脱敏马_V1.8.1_分发包.zip`，解压后双击 `TuominMa.exe` 即可运行，无需安装。
+前往 [Releases](https://github.com/MLX-26/-V1/releases) 页面下载最新版本的 `脱敏马_V1.8.1_分发包.zip`，解压后双击 `TuominMa.exe` 即可运行，无需安装。
 
 > 首次运行若弹出 Windows SmartScreen 提示（"未知发布者"），请点击「更多信息」→「仍要运行」。
 
