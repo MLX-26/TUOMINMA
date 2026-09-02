@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+
+# 虚拟环境
+.venv/
+venv/
+env/
+
+# PyInstaller 构建产物
+build/
+dist/
+*.spec.bak
+
+# 配置与临时文件
+config/
+*.log
+_icon_preview.png
+
+# 备份文件
+* (2).py
+* (2).bat
+build (2).bat
+
+# 系统
+Thumbs.db
+.DS_Store
